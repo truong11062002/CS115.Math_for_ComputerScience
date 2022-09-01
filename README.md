@@ -1,2 +1,2 @@
 # machine_learning_basic
-Practice exercises about machine learning
+CS115 - Toán cho Khoa học máy tính
